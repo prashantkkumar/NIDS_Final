@@ -72,10 +72,6 @@ The project is fully responsive and completely based on session and cookies conc
 
 ![23](https://user-images.githubusercontent.com/106341416/209460242-a8306b45-6a88-4941-8433-645caeaa00df.png)
 
-![24](https://user-images.githubusercontent.com/106341416/209460245-bcf656a8-407a-4618-9a93-a301a23a2707.png)
-
-![25](https://user-images.githubusercontent.com/106341416/209460250-b93aacdc-4d00-4dd6-95c7-3e341494a112.png)
-
 ![26](https://user-images.githubusercontent.com/106341416/209460255-bdb1e83a-0c4a-4f89-9364-2ca1d73566f4.png)
 
 ![27](https://user-images.githubusercontent.com/106341416/209460257-473788b1-918f-4685-9588-923686ce6e39.png)
